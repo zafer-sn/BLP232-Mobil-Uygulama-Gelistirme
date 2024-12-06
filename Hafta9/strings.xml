@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirestoreUygulama</string>
+    <string name="isim">Isim</string>
+    <string name="soyisim">Soyisim</string>
+    <string name="yas">Yas</string>
+</resources>
