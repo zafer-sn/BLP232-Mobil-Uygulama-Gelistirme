@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseFirestore</string>
+    <string name="isim">Isim</string>
+    <string name="soyisim">Soyisim</string>
+    <string name="yas">Yas</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="verigetir">Veri Getir</string>
+</resources>
