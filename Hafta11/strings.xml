@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirestoreUygulama</string>
+    <string name="isim">Isim</string>
+    <string name="soyisim">Soyisim</string>
+    <string name="yas">Yas</string>
+    <string name="verilerigetir">VERİLERİ GETİR</string>
+    <string name="kaydet">KAYDET</string>
+
+    <string name="yeniIsim">Yeni Isim</string>
+    <string name="yeniSoyisim">Yeni Soyisim</string>
+    <string name="yeniYas">Yeni Yas</string>
+    <string name="guncelleButton">GÜNCELLE</string>
+</resources>
